@@ -1,6 +1,6 @@
 # life
 
-Simple command line app written in VC++ 2017
+Simple command line app for Windows written in VC++ 2017
 
 Expected usage:
 life.exe filename.txt [generationCount]
