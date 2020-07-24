@@ -1,5 +1,7 @@
 # life
 
+Simple command line app written in VC++ 2017
+
 Expected usage:
 life.exe [filename.txt] [generationCount]
 
